@@ -1,6 +1,8 @@
 
 
 ### Olá eu sou o Kelvin Santos Barcelos 
+Sou um desenvolvedor Full Stack, com uma paixão especial pela parte de back-end. Gosto de criar soluções eficientes, escaláveis e bem estruturadas. Sou apaixonado por aprender e estou sempre buscando novas tecnologias e desafios para aprimorar minhas habilidades.
+
 #### Seja bem vindo(a) ao meu github 🫡
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-barcelos-b76716143)
